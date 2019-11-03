@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html >
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+
+<link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Diplomata|Fascinate+Inline|Kodchasan:300,400,600,700|Notable|Permanent+Marker|Righteous|Rock+Salt|Shrikhand|VT323" rel="stylesheet">
+<script>
+
+console.log($)
+   $(document).ready(function() {
+		
+		$("#prod_image2").hover(function(){
+ 	 		
+			  $$(this).attr("src", "hacker5.img");
+  		
+		  }, function(){
+ 			 
+			  $(this).attr("src", "hacker6.img");
+		});
+});
+
+</script>
+</head>
+<body>
+	<div class="wrapper">
+		<div class ="navbar">
+			<div class="navcase">
+				<div class="logo">welcome,<a href="/signin"> Sign in</a></div>
+				<div class="shop">
+					<a href="/hacker">SHOP</a>
+				</div>
+			</div>
+			<div class="cat_case">
+				<div class="catboxes">
+					<div class="cat_box">GOTH</div>
+					<div class="cat_box">ARTIST</div>
+					<div class="cat_box">PUNK</div>
+					<div class="cat_box">CLASSIC</div>
+					<div class="cat_box">TECH</div>
+
+				</div>	
+
+			</div>
+
+		</div>
+		<div class="top">
+			<div class="greet">
+				<div class="hello">HELLO STRANGER</div>
+				<div class="mono">monochrome apparel</div>
+			</div>
+		</div>
+		<div class="feature">
+		
+		</div>
+		<div class="showcase">
+			<div class ="prod_container">
+				<div class="prod_image1"></div></a>
+			</div>
+			<div class ="prod_container">
+				<a href="/hacker"><div class="prod_image2"></div></a>
+			</div>
+			<div class ="prod_container">
+				<div class="prod_image3"></div>
+			</div>
+			<div class ="prod_container">
+				<div class="prod_image4"></div>
+			</div>
+			<div class ="prod_container">
+				<div class="prod_image5"></div>
+			</div>
+			<div class ="prod_container">
+				<div class="prod_image6"></div>
+			</div>
+
+			
+		</div>
+
+		<div class="middle">
+			<div class="feat2">
+				<div class="feat2text">BEATNIK <br>MOVEMENT</div>
+
+			</div>
+			<div class="promo">
+				<div class="promo_text">Free Black Dye With Every Purchase</div>
+
+			</div>
+		</div>
+		<div class="footer"></div>
+						<div class ="navbar">
+			<div class="navcase">
+
+			</div>
+			<div class="cat_case">
+				<div class="catboxes">
+
+
+				</div>
+
+
+			</div>
+
+		</div>
+		
+	</div>
+
+</body>
+</html>

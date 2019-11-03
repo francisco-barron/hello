@@ -1,0 +1,414 @@
+{
+	outline: 1px dotted red;
+
+
+}
+
+div.wrapper{
+	min-height: 728px;
+	width: 1600px;
+   background-image: url("pop.jpeg");
+ 
+
+}
+div.navbar{
+
+	min-height: 60px;
+	width: 1600px;
+
+
+}
+div.navcase{
+
+	min-height: 50px;
+	width: 1800px;
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	display: inline-block;
+
+}
+div.cat_case{
+
+
+	margin-top: 5px;
+	min-height: 50px;
+	width: 1800px;
+	background-color: black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	display: inline-block;
+
+}
+div.catboxes{
+
+	margin-left: 550px;
+
+}
+div.details{
+
+	color: black;
+}
+
+div.cat_box{
+
+
+	margin-top: 10px; 
+	height: 40px;
+	min-width: 100px;
+	background-color: black;
+	color: white;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-width: 1px;
+	border-color: white;
+	display: inline-block;
+	vertical-align: top;
+	
+
+
+}
+div.shop{
+
+	display: inline-block;
+	margin-left: 1300px;
+
+}
+div.logo{
+
+	margin-top: 11px;
+	margin-left: 25px;
+	display: inline-block;
+
+}
+div.top{
+
+	background-color: black;
+	background-size: cover;
+	border-radius: 2px;
+
+	min-height: 300px;
+	min-width: 1600px;
+
+}
+
+div.hello{
+
+
+	padding-top: 65px;
+	margin-left: 400px;
+	color: white;
+	font-size: 85px;
+	text-shadow: 4px 4px #010101;
+	font-family: 'Kodchasan', sans-serif;
+
+}
+div.mono{
+
+
+
+    color: black;
+    font-size: 33px;
+    text-shadow: 1px 1px #ffffff;
+    font-family: 'Kodchasan', sans-serif;
+    padding-left: 626px;
+    margin-top: -13px;
+
+}
+
+
+img.greeting{
+
+	height: 200px;
+	width: 600px;
+	margin-top: 150px;
+	margin-left: 125px;
+
+}
+div.showcase{
+
+	min-height: 400px;
+	width: 1350px;
+	margin-left: 100px;
+	border-style: groove;
+	border-width: 2px;
+	background-color: black;
+
+
+}
+div.feature{
+
+	min-height: 400px;
+	width: 1350px;
+	margin-left: 100px;
+	border-width: 0px;
+	background-image: url("hsglitch.gif");
+	background-size: 1350px;
+	background-repeat: no-repeat;
+	background-color: #F3F3F3;
+	
+
+}
+div.feat_text{
+
+
+	margin-left: 500px;
+	padding-top: 150px;
+	font-family: 'VT323', monospace;
+	font-size: 80px;
+	color: black;
+
+
+
+
+}
+div.middle{
+
+	min-height: 400px;
+	width: 1450px;
+}
+div.feat2{
+
+	min-height: 400px;
+	width: 800px;
+	margin-left: 100px;
+	border-style: groove;
+	border-width: 2px;
+	background-image: url("beatnick.jpg");
+	background-repeat: no-repeat;
+	display: inline-block;
+	vertical-align: top;
+
+
+
+}
+div.feat2text{
+
+	color: white;
+	font-size: 51px;
+	padding-top: 93px;
+	padding-left: 28px;
+	font-family: 'Alfa Slab One', cursive;
+	text-shadow: 1px 8px #5d5d5d;
+}
+div.promo{
+
+
+	width: 545px;
+	min-height: 400px;
+	display: inline-block;
+	background-color: white;
+	display: inline-block;
+	vertical-align: top;
+	background-color: white;
+	background-image: url("dye.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%;
+
+
+}
+div.promo_text{
+
+	font-size: 33px;
+	padding-left: 300px;
+	color: black;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -40px;
+	padding-top: 90px;
+	font-family: 'Notable', cursive;
+
+}
+
+
+div.prod_container{
+
+	min-height: 350px;
+	width: 300px;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-style: groove; ;
+	border-width: 1px;
+	display: inline-block;
+	background-color: white;
+	vertical-align: top;
+
+
+}
+div.prod_image1{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker2.jpg"); 
+	vertical-align: top;
+	background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+div.prod_image2{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker6.jpg"); 
+	vertical-align: top;
+	background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+div.prod_image3{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker5.jpg"); 
+	vertical-align: top;
+	background-size: 300px 350px;
+    background-repeat: no-repeat;
+
+
+}
+
+div.prod_image4{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker3.jpg"); 
+	vertical-align: top;
+	background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+div.prod_image5{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker1.jpg"); 
+	vertical-align: top;
+	background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+div.prod_image6{
+
+	height: 350px;
+	width: 350px;
+	background-image: url("hacker7.jpg"); 
+	vertical-align: top;
+	background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+div.bottom{
+
+	min-height: 300px;
+	width: 1450px;
+}
+img.invite{
+
+	height: 40px;
+	margin-left: 200px;
+
+
+}
+div.footer{
+
+	min-height: 50px;
+	width: 828px;
+}
+div.prod{
+
+
+}
+
+div.info_image{
+
+    height: 507px;
+    width: 379px;
+    margin-left: 186px;
+    margin-top: 37px;
+    background-image: url(hacker6.jpg);
+    vertical-align: top;
+    background-size: 380px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+div.product_info{
+
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin: left;
+    margin-left: 100px;
+    margin-top: 37px
+}
+p.product_name{
+
+	font-size: 40px;
+	font-family: 'VT323', monospace;
+
+
+}
+p.price{
+
+	color: white;
+	font-size: 25px;
+}
+div.detail_box{
+
+	width: 600px;
+	min-height: 350px;
+	background-color: white;
+	margin-top: 30px;
+	color: black;
+    border-style: double;
+
+
+
+
+}
+div.info_showcase{
+
+	min-height: 1000px;
+	width: 1350px;
+	margin-left: 100px;
+	border-style: groove;
+	border-width: 2px;
+	background-color: black;
+
+
+}
+
+div.info_details{
+
+	margin-left: 0px;
+	padding-top: 50px;
+	color: black;
+
+
+}
+div.logbox{
+
+	display: inline-block;
+	vertical-align: top;
+	vertical-align: right;
+
+}
+p.title{
+
+	display: inline-block;
+	vertical-align: top;
+}
+
+
